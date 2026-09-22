@@ -1,5 +1,8 @@
 package com.example.buysell.models;
 
+import lombok.Getter;
+
+@Getter
 public enum Permission {
     DEVELOPERS_READ("developers:read"),
     DEVELOPERS_WRITE("developers:write");
@@ -10,7 +13,4 @@ public enum Permission {
         this.permission = permission;
     }
 
-    public  String getPermission(){
-        return permission;
-    }
 }
