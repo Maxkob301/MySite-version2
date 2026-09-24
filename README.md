@@ -84,6 +84,6 @@ GitHub Actions автоматически:
 
 ## Автор
 
-Максим Кобзев
+Максим Кобец
 
 - GitHub: [@Maxkob301](https://github.com/Maxkob301)
